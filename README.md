@@ -9,5 +9,7 @@
 - API:
   + Current weather data: [https://openweathermap.org/current]
   + 5 day weather forecast: [https://openweathermap.org/forecast5]
-- UI:
-  + Figma: [https://www.figma.com/file/xeSIENCL4qQLPrXt3hQ5Ms/Untitled?type=design&node-id=0-1&mode=design&t=XnE5ZLqkgeeyAJ0M-0]
+- Figma: [https://www.figma.com/file/xeSIENCL4qQLPrXt3hQ5Ms/Untitled?type=design&node-id=0-1&mode=design&t=XnE5ZLqkgeeyAJ0M-0]
+- 
+  ![Home Page](assets/test/Home.png?raw=true "Home Page")
+  ![Detail Page](assets/test/Detail.png?raw=true "Detail Page")
